@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-Me chamo Lucas Antonelli Paranhos Correia, tenho 20 anos e sou natural da Bahia. Concluí o ensino médio no Colégio Diocesano Dom Bosco. Atualmente, estou cursando Ciência da Computação na Facape. Sou apaixonado por tecnologia e compartilho meu conhecimento através do 
+Me chamo Lucas Antonelli Paranhos Correia, tenho 20 anos e sou natural da Bahia. Atualmente, estou cursando Ciência da Computação na Facape.
   
     
     
