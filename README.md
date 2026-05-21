@@ -1,10 +1,12 @@
 # 👨‍💻 Sobre mim:
 
+Me chamo Lucas Antonelli, tenho 20 anos de idade, e sou natural da Bahia. 
+
 Atualmente sou estudante e desenvolvedor focado em tecnologia, criando projetos para aprimorar minhas habilidades em desenvolvimento de software, APIs, arquitetura de sistemas e programação.
 
 Tenho interesse em colaborar em projetos envolvendo desenvolvimento backend, automação, integração de APIs e soluções voltadas para tecnologia.
 
-Atualmente estou aprendendo mais sobre arquitetura de software, desenvolvimento de APIs escaláveis, boas práticas de código e ferramentas modernas do ecossistema de desenvolvimento.
+Hodiernamente estou aprendendo mais sobre arquitetura de software, desenvolvimento de APIs escaláveis, boas práticas de código e ferramentas modernas do ecossistema de desenvolvimento.
 
 ---
 
