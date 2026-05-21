@@ -6,7 +6,7 @@ Atualmente sou estudante e desenvolvedor focado em tecnologia, criando projetos 
 
 Tenho interesse em colaborar em projetos envolvendo desenvolvimento backend, automação, integração de APIs e soluções voltadas para tecnologia.
 
-Hodiernamente estou aprendendo mais sobre arquitetura de software, desenvolvimento de APIs escaláveis, boas práticas de código e ferramentas modernas do ecossistema de desenvolvimento.
+No momento estou aprendendo mais sobre arquitetura de software, desenvolvimento de APIs escaláveis, boas práticas de código e ferramentas modernas do ecossistema de desenvolvimento.
 
 ---
 
