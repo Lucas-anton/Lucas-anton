@@ -1,80 +1,34 @@
-# 👩🏻‍💻 Lucas Antonelli
+# 👨‍💻 Sobre mim:
 
-**`Software Engineer`**
+Atualmente sou estudante e desenvolvedor focado em tecnologia, criando projetos para aprimorar minhas habilidades em desenvolvimento de software, APIs, arquitetura de sistemas e programação.
 
-Me chamo Lucas Antonelli Paranhos Correia, tenho 20 anos e sou natural da Bahia. Atualmente, estou cursando Ciência da Computação na Facape.
+Tenho interesse em colaborar em projetos envolvendo desenvolvimento backend, automação, integração de APIs e soluções voltadas para tecnologia.
 
+Atualmente estou aprendendo mais sobre arquitetura de software, desenvolvimento de APIs escaláveis, boas práticas de código e ferramentas modernas do ecossistema de desenvolvimento.
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
+## 🌐 Redes Sociais:
 
 <p>
-  <img
-    align="left"
-    height="190"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucas-anton&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+  <a href="https://www.linkedin.com/in/lucas-antonelli-930a60330/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
 
-  <img
-    align="left"
-    width="41%"
-    height="185"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucas-anton&theme=tokyonight&custom_title=Tecnologias&langs_count=9"
-  />
+  <a href="mailto:lu.antonelli8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<br clear="both"/>
+# 💻 Tecnologias:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
